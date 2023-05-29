@@ -1,5 +1,5 @@
 <h1 align="left">hola 👋 mi nombre es Rubén Darío Hernández González</h1>
-<h3 align="left">mi pasión es ser fullstack developer</h3>
+<h3 align="left"> desarrollador web fullstack en proceso</h3>
 
 </p>
 
