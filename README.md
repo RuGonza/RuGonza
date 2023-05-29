@@ -1,8 +1,6 @@
-<h1 align="center">hola 👋 mi nombre es Rubén Darío Hernández González</h1>
-<h3 align="center">mi pasión es ser fullstack developer</h3>
+<h1 align="left">hola 👋 mi nombre es Rubén Darío Hernández González</h1>
+<h3 align="left">mi pasión es ser fullstack developer</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
